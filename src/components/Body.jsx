@@ -35,7 +35,7 @@ const Body = () => {
             </div>
             </div>
 
-            <div className="card bg-dark text-white mt-3">
+            <div className="col-12 col-sm-6 card bg-dark text-white mt-3">
                 <div className="card-body">
                     <div>
                         Dentro de mi experiencia profesional en el sector TI he laborado como
@@ -50,7 +50,7 @@ const Body = () => {
             <div className="mt-4 mb-4">  
             <h2>Experiencia profesional</h2>
                 <div class="row">
-                    <div class="col-8">
+                    <div class="col-8 col-sm-6 col-md-4">
                     <div className="border-bottom">
                     <div className="card-body">                        
                         <div className="container">                                                                                                            
